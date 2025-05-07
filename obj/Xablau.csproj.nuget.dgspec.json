@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tobias.albieri\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj": {}
+    "C:\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tobias.albieri\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj": {
+    "C:\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tobias.albieri\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj",
         "projectName": "Xablau",
-        "projectPath": "C:\\Users\\tobias.albieri\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj",
+        "projectPath": "C:\\Faculdade\\Dev-Web-Avancado\\Xablau.csproj",
         "packagesPath": "C:\\Users\\tobias.albieri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tobias.albieri\\Faculdade\\Dev-Web-Avancado\\obj\\",
+        "outputPath": "C:\\Faculdade\\Dev-Web-Avancado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tobias.albieri\\AppData\\Roaming\\NuGet\\NuGet.Config"
